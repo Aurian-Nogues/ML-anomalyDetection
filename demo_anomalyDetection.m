@@ -1,4 +1,4 @@
-%anomaly detection system on a simple data set
+%anomaly detection system on a simple data set to show how it works
 
 %% Initialization
 clear ; close all; clc
